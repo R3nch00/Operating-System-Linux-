@@ -1,0 +1,30 @@
+Lab 3 Task (students with ODD id number)
+---------------------------------------------
+1. Find/print the network name of the 
+computer in the terminal
+2. Print the current date in the format 
+of dd/mm/yyyy (for example) in the terminal
+3. Print current time of the system in 
+s:m:h format
+4. Print the calendar of March 2023 
+5. Print last 5 commands only using 
+history command
+6. Calculate 199 devide by 3 using 
+bc command
+
+Upload screenshot of terminal your outputs.
+Time: 30 Min for getting5/5, or you less marks if uploaded by next lab.
+
+Lab 3 Task (students with EVEN id number)
+-----------------------------------------------
+1. Find/print the network name of the
+ computer in the terminal
+2. Print the current date in the 
+format of mm/dd/yyyy (for example) in the terminal
+3. Print current time of the system
+ in s:m:h format
+4. Print the calendar of August 2023 
+5. Print last 10 commands only 
+using history command
+6. Calculate 201 multiplied by 3
+ using bc command
